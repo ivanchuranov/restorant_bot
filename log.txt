@@ -1,0 +1,2 @@
+<class 'type'> : 2022-11-19 09:50:24.667989 : invalid literal for int() with base 10: 's'
+<class 'type'> : 2022-11-19 09:51:24.432044 : invalid literal for int() with base 10: 'd'

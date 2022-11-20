@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "role": "admin",
+      "chatid": 39483,
+      "first_name": "админ",
+      "username": "админ",
+      "last_name": "админ"
+    },
+    {
+      "role": "client",
+      "chatid": 128,
+      "first_name": "dfsf",
+      "username": null,
+      "last_name": null
+    }
+  ]
+}
