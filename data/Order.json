@@ -1,0 +1,48 @@
+{
+  "orders": [
+    {
+      "id": 0,
+      "place": "dsd",
+      "user": 34873,
+      "status": 0,
+      "menu_items": [
+        {
+          "name": "блюдо 1",
+          "price": 2994
+        },
+        {
+          "name": "блюдо 2",
+          "price": 494
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "place": "dsd",
+      "user": 34873,
+      "status": 0,
+      "menu_items": [
+        {
+          "name": "блюдо 1",
+          "price": 2994
+        },
+        {
+          "name": "блюдо 2",
+          "price": 494
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "place": "�",
+      "user": 10554,
+      "status": 0,
+      "menu_items": [
+        {
+          "name": "w",
+          "price": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 class Order:
-    def __init__(self, menu_items, user, place, id):
+    def __init__(self, menu_items, chatid, place, id, status=0):
         self.STATUSES = ['Подтверждение заказа', 'готовится', 'готов', 'выдан курьеру', 'заказ получен']
-        self.user = user
+        self.chatid = chatid
         self.menu_items = menu_items
         self.place = place
-        self.status = 0
+        self.status = status
         self.id = id
 
     def change_status(self):
