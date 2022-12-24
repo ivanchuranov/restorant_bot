@@ -1,0 +1,12 @@
+{
+  "battles": [
+    {
+      "id": 1,
+      "name": "Battle 1"
+    },
+    {
+      "id": 2,
+      "name": "Battle 2"
+    }
+  ]
+}

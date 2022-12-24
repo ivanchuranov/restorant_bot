@@ -1,0 +1,12 @@
+{
+  "samuraies": [
+    {
+      "id": 1,
+      "name": "Samurai 1"
+    },
+    {
+      "id": 2,
+      "name": "Samurai 2"
+    }
+  ]
+}

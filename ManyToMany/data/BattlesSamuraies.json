@@ -1,0 +1,16 @@
+{
+  "battle_samuraies": [
+    {
+      "samurai_id": 1,
+      "battle_id": 1
+    },
+    {
+      "samurai_id": 1,
+      "battle_id": 2
+    },
+    {
+      "samurai_id": 2,
+      "battle_id": 2
+    }
+  ]
+}
